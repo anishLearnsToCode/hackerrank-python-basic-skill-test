@@ -1,6 +1,6 @@
 # HackerRank Python (Basic) Skill Certification Test 
 
-![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-python-basic-skill-test.svg)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/hackerrank-python-basic-skill-test)
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-2/2-1abc9c.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
