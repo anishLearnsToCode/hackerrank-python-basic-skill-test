@@ -1,7 +1,7 @@
 # HackerRank Python (Basic) Skill Certification Test 
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-2/2-1abc9c.svg)
-[![hackerrank-java](https://img.shields.io/badge/hackerrank%20certification-java-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-java-basic-skill-test)
+[![hackerrank-java](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 Took this test on HackerRank [here](https://www.hackerrank.com/skills-verification) 
 on __14th July 2020__. 
